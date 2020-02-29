@@ -2,6 +2,7 @@
 title: Dangerous Beer USB attack spotted on San Francisco
 date: 2020-02-29T19:24:14.371Z
 description: Free beer and a USB stick with streaming accounts? Too good to be truth...
+image: img/img_20200228_140855.jpg
 ---
 As an early domain name investor **Mike O’Connor** had by 1994 snatched up several choice online destinations, including bar.com, cafes.com, grill.com, place.com, pub.com and television.com. Some he sold over the years, but for the past 26 years O’Connor refused to auction perhaps the most sensitive domain in his stable —**corp.com**. It is sensitive because years of testing shows whoever wields it would have access to an unending stream of passwords, email and other proprietary data belonging to hundreds of thousands of systems at major companies around the globe.
 
